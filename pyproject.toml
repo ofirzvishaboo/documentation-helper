@@ -28,6 +28,7 @@ dependencies = [
     "certifi",
     "langchain-chroma",
     "python-dotenv",
+    "langchain-text-splitters>=1.0.0",
 ]
 
 [project.optional-dependencies]
